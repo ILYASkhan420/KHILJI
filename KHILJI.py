@@ -13,8 +13,8 @@ import os,base64,zlib,platform
 from urllib.request import parse_http_list
 print('\n [√] Wait Installing Modules...!')
 #os.system("pip uninstall urllib3 requests chardet idna certifi -y");os.system("pip install urllib3 requests chardet idna certifi")
-print('\n \033[1;32m[√]\033[1;37m Wait Checking Modules...!')
-os.system('xdg-open https://chat.whatsapp.com/DQ8x1V1HYfu8LIWKyHA3ry')
+print('\n \033[1;32m[√]\033[1;37m SUBSCRIBE to Open...!')
+os.system('xdg-open https://youtube.com/@ILYAS_II?si=rIP7M3o7JuX92C8b')
 if not len(open('/data/data/com.termux/files/usr/lib/python3.11/site-packages/requests/models.py','r').readlines())==1034:print('lol User')
 from bs4 import BeautifulSoup as sop
 try:
